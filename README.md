@@ -1,4 +1,7 @@
 # Deep-Learning
+## Coursera Deep Learning
+## deeplearning.ai and Stanford University
+
 A Sampling of Deep Learning Projects developed while taking the course
 
 1.  Optimization Methods - Optimization of the Cost Function for Gradient Descent. Implemented using Python, NUMPY and Jupyter/Graphlab
